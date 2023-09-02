@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2023/08/daulathussain.png)
+
 
 <h1 align="center">Hi 👋, I'm ESSIEL JUSTICE</h1>
 <h3 align="center">Software Engineer</h3>
