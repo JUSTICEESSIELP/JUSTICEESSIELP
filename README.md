@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on @DrveInn<br><br>🌱 I’m currently working as a Blockchain developer, creating web2 and web3 as well as Web3 Mobile App<br><br>👨‍💻 All of my projects are available at https://64ea69dfe5e53c74edcb6e56--prince-justice.netlify.app/<br><br>
+🔭 I’m currently working on @DriveInn<br><br>🌱 I’m currently working as a Blockchain developer, creating web2 and web3 as well as Web3 Mobile App<br><br>👨‍💻 All of my projects are available at https://64ea69dfe5e53c74edcb6e56--prince-justice.netlify.app/<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/essiel-justice-01948b183) 
